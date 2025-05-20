@@ -15,12 +15,15 @@ Avaliar o desempenho de quatro lojas (Loja 1, Loja 2, Loja 3 e Loja 4) a partir 
 # 📈 Exemplos de Gráficos e Insights
 
 Faturamento Total por Loja: Gráfico de barras comparando os faturamentos das quatro lojas.
+
 ![image](https://github.com/user-attachments/assets/d30065e3-ed29-4e5e-b372-b51d2ca6ec66)
 
 Média das Avaliações: Representação gráfica das avaliações médias dos clientes.
+
 ![image](https://github.com/user-attachments/assets/e3dc0cb0-4e61-498e-a0e9-0bab0443dde8)
 
 Frete Médio: Comparação visual do custo médio de frete entre as lojas.
+
 ![image](https://github.com/user-attachments/assets/f29df113-ed90-4ba7-8d5a-ea32f21ba638)
 
 # Insights Obtidos:
