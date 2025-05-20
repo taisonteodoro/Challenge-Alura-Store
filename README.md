@@ -8,11 +8,9 @@ Avaliar o desempenho de quatro lojas (Loja 1, Loja 2, Loja 3 e Loja 4) a partir 
 
 # 📁 Estrutura do Projeto
 
-Alura_Store_Analise/
+
 ├── Curso_03_Desafio_Challenge_Alura_Store.ipynb      # Notebook principal com todo o processo de análise
-
 ├── README.md                                         # Documentação do projeto
-
 └── imagens/                                          # Diretório contendo os gráficos e insights obtidos
 
 # 📈 Exemplos de Gráficos e Insights
