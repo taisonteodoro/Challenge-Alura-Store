@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um desafio proposto pela Alura para praticar habilidades em análise de dados utilizando Python e bibliotecas como Pandas e Matplotlib. A análise tem como objetivo auxiliar o Senhor João a decidir qual loja vender, com base em métricas como faturamento, vendas por categoria, satisfação dos clientes, produtos mais/menos vendidos e custo médio de frete.
 
-# 📊 Propósito da Análise
+📊 # Propósito da Análise
 
 Avaliar o desempenho de quatro lojas (Loja 1, Loja 2, Loja 3 e Loja 4) a partir de dados de vendas e logística, para recomendar qual loja deve ser vendida com base em critérios objetivos e visualizações gráficas.
 
